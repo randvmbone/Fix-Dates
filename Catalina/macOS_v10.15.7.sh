@@ -1,0 +1,21 @@
+sudo SetFile -m "10/28/2020 16:47:51" Install\ macOS\ Catalina.app/
+sudo find Install\ macOS\ Catalina.app/Contents/SharedSupport -exec SetFile -m "10/30/2020 06:14:35" '{}' \;
+sudo SetFile -m "10/30/2020 11:20:42" Install\ macOS\ Catalina.app/Contents
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/IAESD.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/OSInstallerSetupInternal.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/OSInstallerSetupInternal.framework/Versions
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAOSPersonalization.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAOSPersonalization.framework/Versions
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IABridgeOSInstall.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IABridgeOSInstall.framework/Versions
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAMiniSoftwareUpdate.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAMiniSoftwareUpdate.framework/Versions
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAPackageKit.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAPackageKit.framework/Versions
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAInstallerUtilities.framework
+sudo SetFile -m "10/28/2020 16:47:50" Install\ macOS\ Catalina.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAInstallerUtilities.framework/Versions
