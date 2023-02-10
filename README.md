@@ -54,4 +54,4 @@ Modify timestamps for macOS and iWork for archival
 
 ### Ventura (13.2)
 
-[macOS_v13.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/macOS_v13.2/.sh)
+[macOS_v13.2.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/macOS_v13.2/.sh)
