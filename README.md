@@ -26,6 +26,12 @@ Modify timestamps for macOS and iWork for archival
 
 [macOS_v10.15.7.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Catalina/macOS_v10.15.7.sh)
 
+[Pages_v11.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Catalina/Pages_v11.1.sh)
+
+[Numbers_v11.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Catalina/Numbers_v11.1.sh)
+
+[Keynote_v11.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Catalina/Keynote_v11.1.sh)
+
 ### Big Sur (11.7.2)
 
 [macOS_v11.7.2.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Big%20Sur/macOS_v11.7.2.sh)
@@ -40,12 +46,12 @@ Modify timestamps for macOS and iWork for archival
 
 [macOS_v12.6.2.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Monterey/macOS_v12.6.2.sh)
 
-[Pages_v12.21.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/Pages_v12.2.1.sh)
+[Pages_v12.2.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/Pages_v12.2.1.sh)
 
-[Numbers_v12.2.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/Numbers_v6.1.sh)
+[Numbers_v12.2.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/Numbers_v12.2.1.sh)
 
 [Keynote_v12.2.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/Keynote_v12.1.1.sh)
 
-### Ventura (13.1)
+### Ventura (13.2)
 
-[macOS_v13.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/macOS_v13.1.sh)
+[macOS_v13.1.sh](https://raw.githubusercontent.com/randvmbone/Fix-Dates/main/Ventura/macOS_v13.2/.sh)
