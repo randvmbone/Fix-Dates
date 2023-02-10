@@ -1,0 +1,22 @@
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/SharedSupport
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/SharedSupport/SharedSupport.dmg
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/OSInstallerSetupInternal.framework
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/OSInstallerSetupInternal.framework/Versions
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAOSPersonalization.framework
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAOSPersonalization.framework/Versions
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IABridgeOSInstall.framework
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IABridgeOSInstall.framework/Versions
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAMiniSoftwareUpdate.framework
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAMiniSoftwareUpdate.framework/Versions
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAPackageKit.framework
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAPackageKit.framework/Versions
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAInstallerUtilities.framework
+sudo SetFile -m "01/13/2023 20:09:54" Install\ macOS\ Ventura.app/Contents/Frameworks/OSInstallerSetup.framework/Versions/A/Frameworks/IAESD.framework/Versions/A/Frameworks/IAInstallerUtilities.framework/Versions
+
